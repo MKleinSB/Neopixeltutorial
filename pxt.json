@@ -1,6 +1,6 @@
 {
     "name": "neopixel",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,10 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "https://github.com/MKleinSB/Neopixel/blob/master/0.png",
+        "https://github.com/MKleinSB/Neopixel/blob/master/1.png",
+        "https://github.com/MKleinSB/Neopixel/blob/master/2.png"
     ],
     "testFiles": [
         "test.ts"
