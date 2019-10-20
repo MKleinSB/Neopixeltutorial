@@ -9,9 +9,9 @@
     "files": [
         "README.md",
         "main.ts",
-        "github:MKleinSB/Neopixel/blob/master/0.png",
-        "github:MKleinSB/Neopixel/blob/master/1.png",
-        "github:MKleinSB/Neopixel/blob/master/2.png"
+        "https://github.com/MKleinSB/Neopixel/blob/master/0.png",
+        "https://github.com/MKleinSB/Neopixel/blob/master/1.png",
+        "https://github.com/MKleinSB/Neopixel/blob/master/2.png"
     ],
     "testFiles": [
         "test.ts"
