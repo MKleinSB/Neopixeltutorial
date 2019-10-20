@@ -3,14 +3,14 @@
 ## 
 
 Willkommen! Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst mit dem Du RGB-LEDs (Neopixel) mit Deinem @boardname@ ansteuern kannst.
-![Neopixelbild](github:MKleinSB/Neopixel/blob/master/1.png)
+![Neopixelbild](https://github.com/MKleinSB/Neopixel/blob/master/1.png)
 Fangen wir an!
 
 ## Neopixel anschließen @fullscreen
 Neopixel lassen sich ganz leicht am @boardname@ anschließen:
 Verbinde DIN mit P0, +5V mit dem + des @boardname@ und GND mit - des @boardname@
 Gut geeignet sind RGB-Streifen die es sehr günstig gibt. Mehr als 8 LEDs sollten es ohne zusätzliche Stromversorgung nicht sein.
-![Neopixelanschluss](github:MKleinSB/Neopixel/blob/master/2.png)
+![Neopixelanschluss](https://github.com/MKleinSB/Neopixel/blob/master/2.png)
 
 ## Neopixelstreifen einer Variable zuweisen @fullscreen
 
